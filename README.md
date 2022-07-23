@@ -1,7 +1,7 @@
 # Cloudflare Block Proxies Worker
  A cloudlare service worker that creates a list of Proxy IP's (free ones), which can be used to block users from using TOR Network.
 
-Please refer to the full article [here]().
+Please refer to the full article [here](https://mecanik.dev/en/posts/how-to-block-proxies-using-cloudflare-workers/).
 
 ### Contribution
  Feel free to contribute with your own functions/methods. Just make sure you tested it properly.
